@@ -1,0 +1,15 @@
+D:\Patika\Odev1\bin\Debug\net7.0\Odev1.exe
+D:\Patika\Odev1\bin\Debug\net7.0\Odev1.deps.json
+D:\Patika\Odev1\bin\Debug\net7.0\Odev1.runtimeconfig.json
+D:\Patika\Odev1\bin\Debug\net7.0\Odev1.dll
+D:\Patika\Odev1\bin\Debug\net7.0\Odev1.pdb
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.csproj.AssemblyReference.cache
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.AssemblyInfoInputs.cache
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.AssemblyInfo.cs
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.csproj.CoreCompileInputs.cache
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.dll
+D:\Patika\Odev1\obj\Debug\net7.0\refint\Odev1.dll
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.pdb
+D:\Patika\Odev1\obj\Debug\net7.0\Odev1.genruntimeconfig.cache
+D:\Patika\Odev1\obj\Debug\net7.0\ref\Odev1.dll
